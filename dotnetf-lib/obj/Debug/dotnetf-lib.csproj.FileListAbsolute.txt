@@ -1,0 +1,6 @@
+C:\Users\Manda\OneDrive\Kiran\Australia\Employment\Contracts\USA\Sami\UnitedAirlines\projects\Misc\demo\dotnet-framework-nuget\dotnetf-lib\bin\Debug\dotnetf-lib.dll
+C:\Users\Manda\OneDrive\Kiran\Australia\Employment\Contracts\USA\Sami\UnitedAirlines\projects\Misc\demo\dotnet-framework-nuget\dotnetf-lib\bin\Debug\dotnetf-lib.pdb
+C:\Users\Manda\OneDrive\Kiran\Australia\Employment\Contracts\USA\Sami\UnitedAirlines\projects\Misc\demo\dotnet-framework-nuget\dotnetf-lib\obj\Debug\dotnetf-lib.csproj.AssemblyReference.cache
+C:\Users\Manda\OneDrive\Kiran\Australia\Employment\Contracts\USA\Sami\UnitedAirlines\projects\Misc\demo\dotnet-framework-nuget\dotnetf-lib\obj\Debug\dotnetf-lib.csproj.CoreCompileInputs.cache
+C:\Users\Manda\OneDrive\Kiran\Australia\Employment\Contracts\USA\Sami\UnitedAirlines\projects\Misc\demo\dotnet-framework-nuget\dotnetf-lib\obj\Debug\dotnetf-lib.dll
+C:\Users\Manda\OneDrive\Kiran\Australia\Employment\Contracts\USA\Sami\UnitedAirlines\projects\Misc\demo\dotnet-framework-nuget\dotnetf-lib\obj\Debug\dotnetf-lib.pdb
